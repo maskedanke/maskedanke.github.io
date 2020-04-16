@@ -1,0 +1,57 @@
+.header {
+    /* background-color: red; */
+    text-align: center;
+
+    
+}
+
+.header h2 {
+    margin-top: 0.8em;
+    font-size: 1.8em;
+    opacity: 0.7;
+}
+
+.logo {
+    width: 250px;
+    padding: 5em 0 3em 0;
+}
+
+.video-button {
+    margin-top: 2em;
+}
+
+.content {
+    padding: 4em 0 4em 0;
+    margin-top: 3em;
+    background-color: rgb(252, 245, 245);
+}
+
+.footer {
+    padding: 3em;
+    
+}
+
+.videocontainer {
+    padding: 5em 0 5em 0;
+    background-color: rgb(252, 239, 239);
+    border-top: 1px solid rgb(238, 219, 219);
+}
+/* .content section {
+    padding: 0.5em;
+} */
+
+.content h3 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.content p {
+    opacity: 0.85;
+    line-height: 1.6em;
+    word-break: normal;
+    hyphens: auto;
+}
+
+.center {
+    text-align:center;
+}
