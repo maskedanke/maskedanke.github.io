@@ -55,3 +55,12 @@
 .center {
     text-align:center;
 }
+
+.heading--2 {
+    font-weight: bold;
+    margin-top: 1.8em;
+}
+
+a, a:hover, a:active, a:visited {
+    color: rgb(206, 16, 57)
+}
