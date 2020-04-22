@@ -37,6 +37,20 @@
     background-color: rgb(252, 239, 239);
     border-top: 1px solid rgb(238, 219, 219);
 }
+
+.video-responsive {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
 /* .content section {
     padding: 0.5em;
 } */
